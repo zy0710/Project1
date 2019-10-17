@@ -3,7 +3,7 @@ package edu.auburn;
 import javax.swing.*;
 
 public class StoreManager {
-    public static String DEFAULT_DB_FILE = "/Users/summer/IdeaProjects/Activity10/project1.db";
+    public static String DEFAULT_DB_FILE = "/Users/summer/IdeaProjects/Activity10/data/project1.db";
     IDataAccess mAdapter;
     //AddProductView addProductView;
     //AddProductController addProductController;
